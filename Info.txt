@@ -1,0 +1,21 @@
+
+This project consists of  MERN application with Mongodb database connectivity
+
+Directly go into the root directory/Main project folder 
+
+and execute below mentioned quries :
+npm run dev -- it will run both frontend and backend application simultanouly...
+
+
+
+
+
+
+
+# Getting error -
+Proxy error: Could not proxy request /api/products/ from localhost:3000 to http://localhost:5000/.
+[1] See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+As database connection was not thereeeeee
+post MONGO_URI connection establishment...... working fine
+
