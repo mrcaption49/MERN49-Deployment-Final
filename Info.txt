@@ -6,6 +6,10 @@ Directly go into the root directory/Main project folder
 and execute below mentioned quries :
 npm run dev -- it will run both frontend and backend application simultanouly...
 
+Homepage and product details sceen currently available.......
+
+
+
 
 
 
