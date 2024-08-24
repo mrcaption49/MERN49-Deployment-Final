@@ -8,6 +8,12 @@ npm run dev -- it will run both frontend and backend application simultanouly...
 
 Homepage and product details sceen currently available.......
 
+###################Account details ########################
+ Mongodb account - mrpranav.bakare@gmail.com
+#connection string
+#Actual string add password and databse name
+# mongodb+srv://pranav123:<password>@cluster0.hjqghp1.mongodb.net/?retryWrites=true&w=majority
+# mongodb+srv://pranav123:pranav123@cluster0.hjqghp1.mongodb.net/proshop?retryWrites=true&w=majority
 
 
 
